@@ -5,6 +5,12 @@
   box-sizing: border-box;
 }
 
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+}
+
 header {
   position: relative;
   width: 100%;
@@ -21,6 +27,8 @@ header div {
   justify-content: center;
   padding: .8rem;
 }
+
+main { width: 100%; }
 
 h1 {
   width: 100%;
@@ -70,3 +78,18 @@ div p {
   display: inline-block;
   vertical-align: text-top;
 }
+
+footer {
+  width: 100%;
+  background-color: #005677;
+  color: #FFF;
+  align-self: flex-end;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: .6rem 1rem;
+  text-transform: uppercase;
+}
+
+footer span,
+footer img[data-instagram] { margin-right: 1.6rem; }
