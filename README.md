@@ -2,7 +2,7 @@
 
 ## Programa *Certified Tech Developer* por [Digital House](https://www.digitalhouse.com)
 
-En esta práctica se requiere llegar lo más cercano psible a lo presentado a la siguiente imagen:  
+En esta práctica se requiere llegar lo más cercano posible a lo presentado en la siguiente imagen:  
 <br>
 ![Imagen de diseño en Figma](imagenes/figma.png)
 
@@ -20,4 +20,4 @@ En esta práctica se requiere llegar lo más cercano psible a lo presentado a la
 <br>
 **Observación**  
 
-La estructura tanto del HTML cono del CSS se lleva a cabo sin el uso de clases y/o ID's, con el objetivo de hacerlo lo más simple posible. Aunque como "*buenas prácticas*" es recomendable hacer uso de clases por sobre el uso de etiquetas.
+La estructura tanto del HTML como del CSS se lleva a cabo sin el uso de clases y/o ID's, con el objetivo de hacerlo lo más simple posible. Aunque como "*buenas prácticas*" es recomendable hacer uso de clases por sobre el uso de etiquetas.
